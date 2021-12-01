@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimformTest</string>
+
+    <string name="user_full_name">%s %s %s</string>
+    <string name="user_nationality">Nationality: %s</string>
+    <string name="user_location">Location: %d, %s %S %s %s</string>
+
+</resources>
